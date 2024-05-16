@@ -1,0 +1,11 @@
+.header{
+    background-color: var(--corSecundaria);
+    border-radius: 80px;
+    padding: 60px;
+    padding-bottom: 24px;
+    margin-bottom: 24px;
+}
+.avatar{
+    border-radius: 50px;
+    border: 2px solid var(--corPrincipal);
+}
